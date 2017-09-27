@@ -10,7 +10,7 @@ session::loginCheck();
 <html lang="en-US">
     <head>
         <meta charset="UTF-8">
-        <title> facebook log in system </title>
+        <title>  log in system project </title>
         <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css" media="all" />
         <link rel="stylesheet" type="text/css" href="assets/css/style.css" media="all" />
     </head>
