@@ -1,0 +1,122 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1,h2,h3,h4{
+    margin: 0;
+}
+
+/* header css start */
+header{
+    background:#3B5998;
+    padding: 10px;
+}
+header .logo{}
+header .logo a{
+    font-size: 16px;
+    color:#fff;
+    text-decoration: none;
+}
+header .menu-area{}
+header .menu-area nav{}
+header .menu-area nav ul{
+    margin: 0;
+    list-style:none;
+    float: right;
+}
+header .menu-area nav ul li{
+    display: inline-block;
+}
+header .menu-area nav ul li a{
+    text-decoration: none;
+    font-size: 16px;
+    color:#fff;
+    padding: 12px;
+    outline: none;
+}
+
+/* header css end */
+
+
+/* mainArea css start */
+.mainArea{
+    margin-top: 20px
+}
+.mainArea .up-area {
+    background: #f7f7f7 none repeat scroll 0 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    margin: auto;
+    padding: 22px 0;
+    width: 1138px;
+}
+.design-area {
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    padding-bottom: 17px;
+}
+.mainArea .up-area h3 {
+    font-size: 30px;
+}
+.mainArea .up-area .right{
+    float: right
+}
+.mainArea .up-area .right{
+    float: right
+}
+.mainArea table.table {
+    margin-top: 18px;
+}
+.mainArea table.table  tr{}
+.mainArea table.table  tr th{
+    font-size: 18px
+}
+.mainArea table.table  tr td{
+    font-size: 18px
+}
+.btm.btn-primary {
+    font-size: 17px;
+    padding: 5px 9px;
+}
+/*log_in apge css start */
+.mainArea form {
+    width:400px;
+    margin: auto;
+
+
+}
+.mainArea form .form-group {
+    margin-top: 25px;
+}
+.mainArea form .form-group label {
+    font-size: 16px
+}
+.mainArea form .form-group  input{
+    width: 400px
+}
+.mainArea form button{
+
+}
+
+
+
+
+
+
+/* footer css start */
+.footer{
+    background: #3B5998;
+    padding:10px;
+    position: absolute;
+    left:0;
+    right: 0;
+    width: 100%;
+    bottom: 0;
+
+}
+.footer h3{
+    font-size: 15px;
+    color:#fff; 
+}
+.footer{}
+a:hover{
+    text-decoration: none;
+}
